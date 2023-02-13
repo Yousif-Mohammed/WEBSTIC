@@ -1,1 +1,2 @@
-# WEBSTIC
+# Webstic
+Webstic development website
